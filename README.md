@@ -1,4 +1,4 @@
-# 🛠️ COCO128 Object Detection using YOLOv5
+# 🛠️ COCO128 Object Detection using YOLOv11
 
 This project showcases how to train and evaluate an object detection model on the lightweight COCO128 dataset using the powerful YOLOv5 framework in Google Colab.  
 It is intended as a simple, easy-to-follow template for anyone interested in getting started with object detection.
@@ -6,7 +6,7 @@ It is intended as a simple, easy-to-follow template for anyone interested in get
 ---
 
 ## 📌 **Project Overview**
-- **Framework:** [YOLOv5](https://github.com/ultralytics/yolov5)
+- **Framework:** [YOLOv11](https://github.com/ultralytics/yolov11)
 - **Dataset:** COCO128 – a small subset of the COCO dataset (128 images)
 - **Platform:** Google Colab – making it accessible to anyone without local GPU
 
@@ -39,7 +39,7 @@ Baseline model that you can fine-tune on your own custom dataset
 
 Train on a larger dataset for better accuracy
 
-Experiment with different YOLOv5 variants (small, medium, large)
+Experiment with different YOLOv11 variants (small, medium, large)
 
 Deploy the trained model in a web or mobile app
 
